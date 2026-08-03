@@ -1,16 +1,16 @@
-## Hi there 👋
+# 📊 Data Analysis Learning
 
-<!--
-**lazynguyen2001/lazynguyen2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Đây là repository lưu các bài tập và dự án trong quá trình học Data Analysis.
 
-Here are some ideas to get you started:
+## 📚 Nội dung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Excel
+- Pandas
+- NumPy
+
+## 🎯 Mục tiêu
+
+- Học Python
+- Học Excel
+- Xây dựng portfolio
